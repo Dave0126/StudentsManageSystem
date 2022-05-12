@@ -1,2 +1,2 @@
-# UNIVERSITY
-Some programming projects in TJPU
+# Project: Student Management System
+Simple project in TJPU.
